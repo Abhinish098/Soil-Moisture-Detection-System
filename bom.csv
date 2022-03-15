@@ -1,0 +1,13 @@
+﻿Name,Quantity,Component
+"Uard",1," Arduino Uno R3"
+"M2",1," DC Motor"
+"UIR Sensor",1," IR sensor"
+"DGSM Module",1,"Blue LED"
+"R1, R3",2,"1 kΩ Resistor"
+"U1",1," Temperature Sensor [TMP36]"
+"Rpot1",1,"250 kΩ Potentiometer"
+"R2",1,"220 Ω Resistor"
+"U2",1," LCD 16 x 2 "
+"K1",1," Relay SPDT"
+"BAT1",1," 9V Battery"
+"T1",1," NPN Transistor (BJT)"
